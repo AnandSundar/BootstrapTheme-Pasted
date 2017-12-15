@@ -10,7 +10,7 @@
   border-bottom: 5px #f4f4f4 solid;
 }
 
-.jumbotron {
+.jumbotron-main {
   padding: 0 60px 40px 60px;
 }
 
@@ -25,7 +25,7 @@
 }
 
 .jumbotron-sub {
-
+    padding: 0 60px 40px 60px;
 }
 
 .navbar {

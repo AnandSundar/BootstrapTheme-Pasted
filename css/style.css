@@ -43,3 +43,41 @@
   border-bottom: #000 3px solid;
   margin-bottom: 0px;
 }
+
+.pull-left{
+    margin-left: 0;
+    margin-bottom: 25px;
+}
+
+.box{
+  text-align: center;;
+}
+
+.box .glyphicon{
+  font-size: 25px;
+}
+
+.section-a{
+  background: #313461;
+  color: #fff;
+  text-align: center;
+  padding: 50px;
+  margin-bottom: 30px;
+}
+
+.section-a h1{
+  font-size: 50px;
+}
+
+.img-full {
+  width: 100%;
+}
+
+.main-footer{
+  padding: 50px;
+  background: #f5f5f5;
+}
+
+.list-unstyled {
+  margin-top: 25px;
+}
